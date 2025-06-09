@@ -1,5 +1,5 @@
 # Goldman-Sachs-Hackathon
-Goldman Sachs India Hackathon 2025
+Goldman Sachs India Hackathon 2025 - Quant Section
 
                                                       Optimal Hedging Strategy 
 
